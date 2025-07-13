@@ -1,6 +1,6 @@
 # Java Login System
 
-Sistema desktop de login e cadastro de usuários, construído com Java e Swing, seguindo o padrão de arquitetura MVC (Model-View-Controller) e persistência de dados com JDBC.
+Sistema de login e cadastro de usuários, construído com Java e Swing, seguindo o padrão de arquitetura MVC (Model-View-Controller) e persistência de dados com JDBC.
 
 Este projeto faz parte de um estudo focado em desenvolvimento Java, estruturado com atenção à organização de código, boas práticas e base sólida para futuros aprimoramentos.
 
