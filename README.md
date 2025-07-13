@@ -29,7 +29,7 @@ src/
 │   └── Conexao.java
 └── view/
     ├── LoginView.java
-    └── CadastroView.java
+        └── CadastroView.java
 
 ## Como Executar o Projeto
 
