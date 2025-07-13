@@ -18,18 +18,32 @@ O sistema permite que novos usuários sejam cadastrados e posteriormente façam 
 
 ## Estrutura do Projeto
 
+```text
 src/
-├── controller/
-│   └── LoginController.java
-├── dao/
-│   └── LoginDAO.java
-├── model/
-│   └── LoginModel.java
-├── util/
-│   └── Conexao.java
-└── view/
-    ├── LoginView.java
-        └── CadastroView.java
+├── br/
+│   └── com/
+│       └── login/
+│           ├── controller/
+│           │   └── LoginController.java
+│           ├── dao/
+│           │   ├── Conexao.java
+│           │   └── LoginDAO.java
+│           ├── model/
+│           │   └── LoginModel.java
+│           └── view/
+│               ├── LoginView.java
+│               └── CadastroView.java
+├── resources/
+│   └── db.properties.example
+
+docs/
+└── img/
+    └── telas-login-cadastro.png
+
+schema.sql
+.gitignore
+LICENSE
+README.md
 
 ## Como Executar o Projeto
 
