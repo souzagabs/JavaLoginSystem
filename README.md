@@ -44,6 +44,7 @@ schema.sql
 .gitignore
 LICENSE
 README.md
+```
 
 ## Como Executar o Projeto
 
