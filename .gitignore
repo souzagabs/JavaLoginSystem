@@ -1,0 +1,2 @@
+# Ignorar arquivo de configuração com credenciais reais
+src/db.properties
