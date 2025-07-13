@@ -85,7 +85,7 @@ Abaixo, a visualização da tela de login e cadastro:
 
 ## Autor
 
-Gabriel de Souza Brasil
+Gabriel de Souza Brasil.
 Projeto desenvolvido como parte dos estudos em desenvolvimento Java.
 
 ## Licença
